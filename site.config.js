@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Jleemt',
-  domain: 'jleemt.top',
+  domain: 'https://www.notion.so/jleemt/JLeemt-adc93ca7ccee4e3ebcca559401a3859a',
   author: 'Jleemt',
 
   // open graph metadata (optional)
